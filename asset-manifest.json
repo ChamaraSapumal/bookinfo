@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChamaraSapumal/bookinfo/static/css/main.66abaafd.css",
+    "main.js": "/ChamaraSapumal/bookinfo/static/js/main.d5b5e790.js",
+    "static/js/488.6274473d.chunk.js": "/ChamaraSapumal/bookinfo/static/js/488.6274473d.chunk.js",
+    "index.html": "/ChamaraSapumal/bookinfo/index.html",
+    "main.66abaafd.css.map": "/ChamaraSapumal/bookinfo/static/css/main.66abaafd.css.map",
+    "main.d5b5e790.js.map": "/ChamaraSapumal/bookinfo/static/js/main.d5b5e790.js.map",
+    "488.6274473d.chunk.js.map": "/ChamaraSapumal/bookinfo/static/js/488.6274473d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66abaafd.css",
+    "static/js/main.d5b5e790.js"
+  ]
+}
